@@ -1,0 +1,4 @@
+najpierw tworze customapplicationcontext ktory nasladuje application context
+startuje go
+on zawiera w sobie form1 i kiedy chce wywoluje go<
+form1 zawiera w sobie viewy takie jak signupview czy loginview i moze ich przywolac
